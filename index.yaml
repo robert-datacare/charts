@@ -9,18 +9,8 @@ entries:
     name: datacare-chart
     type: application
     urls:
-    - https://robert-datacare.github.io/charts/datacare-chart-0.4.0.tgz
+    - https://robert-datacare.github.io/charts/charts/datacare-chart-0.4.0.tgz
     version: 0.4.0
-  datacare-chart2:
-  - apiVersion: v2
-    appVersion: 0.4.1
-    description: A Helm chart for Kubernetes
-    icon: https://robert-datacare.github.io/charts/logo.png
-    name: datacare-chart2
-    type: application
-    urls:
-    - https://robert-datacare.github.io/charts/datacare-chart-0.4.1.tgz
-    version: 0.4.1
   apache-spark:
   - apiVersion: v2
     appVersion: 7.1.0
@@ -29,5 +19,5 @@ entries:
     name: apache-spark
     type: application
     urls:
-    - https://robert-datacare.github.io/charts/spark-7.1.0.tgz
+    - https://robert-datacare.github.io/charts/charts/spark-7.1.0.tgz
     version: 7.1.0
